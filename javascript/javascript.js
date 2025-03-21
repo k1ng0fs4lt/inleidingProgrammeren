@@ -17,13 +17,13 @@ const herladen = document.querySelector('h3');
 
 //Sound variables
 const bruh = new Audio();
-bruh.src = "sounds/bruh.mp3";// Van meerdere geluiden gecombineerd in een video-editing app
+bruh.src = "sounds/bruh.MP3";// Van meerdere geluiden gecombineerd in een video-editing app
 const schiet = new Audio();
-schiet.src= "sounds/gunshot.mp3";//https://www.youtube.com/watch?v=q6Vj40bdbho
+schiet.src= "sounds/gunshot.MP3";//https://www.youtube.com/watch?v=q6Vj40bdbho
 const leeg = new Audio();
-leeg.src = 'sounds/gunempty.mp3';//https://www.youtube.com/watch?v=RZ0NHT_lxTw 
+leeg.src = 'sounds/gunempty.MP3';//https://www.youtube.com/watch?v=RZ0NHT_lxTw 
 const laadPistool = new Audio();
-laadPistool.src = 'sounds/gunload.mp3'; //Van meerdere geluiden gecombineerd in een video-editing app
+laadPistool.src = 'sounds/gunload.MP3'; //Van meerdere geluiden gecombineerd in een video-editing app
 
 //Let variables
 let verliesScherm = document.getElementById("lostScreen")
